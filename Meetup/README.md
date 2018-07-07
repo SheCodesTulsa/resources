@@ -1,5 +1,5 @@
 # Meeting Series
-When making an edit to the monthly meetup series, save information specific to a month's meetup before editing the series. Modifying the series will 
+When making an edit to the monthly meetup series, save information specific to a month's meetup before editing the series. Modifying the series will wipe out any specific information on that and future months.
 
 # Meetups
 ## Monthly Meetups
@@ -13,6 +13,8 @@ Hardesty Library
 Basic </> image on a computer
 Source:
 https://www.maxpixel.net/Css-Html-Programming-Website-Internet-3170991
+## Hack Night
+We RSVP through Techlahoma's Hack Night Meetup so they have an accurate headcount
 # Logistics
 ## Location
 Library Rooms must be booked through the Tulsa Library Website:
