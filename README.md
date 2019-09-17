@@ -1,4 +1,4 @@
-# Resources for WWC-Tulsa Meetups
+# Resources for SheCodesTulsa Meetups
 ## Meetup 
 Meetup is currently used to organize meetings for SheCodesTulsa. This section contains templates with default info and guide to editing the meeting series in Meetup
 ## Website
