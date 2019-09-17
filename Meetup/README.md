@@ -7,8 +7,7 @@ Use the Meetup Template as a guide for this series
 ### Time
 Every Third Sunday
 ### Location
-Hardesty Library
-8316 E 93rd Street, Tulsa, OK
+
 ### Image
 Basic </> image on a computer  
 Source:  
@@ -17,9 +16,23 @@ https://www.maxpixel.net/Css-Html-Programming-Website-Internet-3170991
 We RSVP through Techlahoma's Hack Night Meetup so they have an accurate headcount
 # Logistics
 ## Location
+
+### Current
+36 Degrees North
+Sponsored by Techlahoma
+
+Re-occurring every Third Sunday, Contact to move to any other day
+
+### Previous
+Hardesty Library
+8316 E 93rd Street, Tulsa, OK 
+
 Library Rooms must be booked through the Tulsa Library Website:  
+
 http://rooms.tulsalibrary.org/reserve  
+
 A Library Card number is required and a backup person's contact information is needed, Details on requirements here:  
+
 https://www.tulsalibrary.org/about/meeting-rooms
 
 
